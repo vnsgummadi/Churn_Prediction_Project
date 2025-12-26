@@ -1,0 +1,49 @@
+feature,coef
+InternetService_Fiber optic,0.8337089199925242
+Contract_Month-to-month,0.7080471386259901
+StreamingMovies_Yes,0.3432254587968795
+StreamingTV_Yes,0.3330094934350336
+tenure_bucket_0-6,0.2826850454462164
+PaymentMethod_Electronic check,0.20674235880210023
+TotalCharges,0.1960806881167292
+PaperlessBilling,0.16798327429659748
+OnlineSecurity_No,0.14663498931899732
+MultipleLines_Yes,0.13474274699391897
+DeviceProtection_Yes,0.11928556267565721
+TechSupport_No,0.11218615576681179
+PhoneService,0.10835089538018042
+SeniorCitizen,0.057752420590463
+OnlineBackup_Yes,0.04452441828641767
+OnlineBackup_No,0.04038146438602254
+Partner,0.025388569963614056
+TechSupport_Yes,-0.027280273094102414
+DeviceProtection_No,-0.034379680003427164
+Contract_One year,-0.04287929603257025
+tenure_bucket_49-72,-0.052345275364436235
+MultipleLines_No phone service,-0.05879876163464435
+OnlineSecurity_Yes,-0.06172910664600617
+tenure_bucket_7-12,-0.08570665571999632
+Dependents,-0.09644296117117568
+gender_Male,-0.11756066890931949
+gender_Female,-0.148584103896963
+PaymentMethod_Credit card (automatic),-0.1522080568082185
+PaymentMethod_Mailed check,-0.1590312388137359
+PaymentMethod_Bank transfer (automatic),-0.1616478359858953
+tenure_bucket_13-24,-0.19728737616977274
+tenure_bucket_25-48,-0.2134905109976756
+monthly_vs_avg,-0.2425375860471201
+MonthlyCharges,-0.24789007693193046
+StreamingTV_No,-0.24810361076224352
+StreamingMovies_No,-0.2583195761243312
+MultipleLines_No,-0.3420887581656705
+StreamingTV_No internet service,-0.35105065547859193
+DeviceProtection_No internet service,-0.35105065547859193
+TechSupport_No internet service,-0.35105065547859193
+OnlineSecurity_No internet service,-0.35105065547859193
+InternetService_No,-0.35105065547859193
+StreamingMovies_No internet service,-0.35105065547859193
+OnlineBackup_No internet service,-0.35105065547859193
+tenure,-0.6633455235332483
+avg_charge,-0.718217617785278
+InternetService_DSL,-0.7488030373200464
+Contract_Two year,-0.9313126153991669
