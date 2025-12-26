@@ -166,10 +166,10 @@ Reproducibility Checklist
 
 Author
 ------
-Venkata Nikhil Sai Gummadi,
-MS Data Science, 
-Arizona State University,
-Mail: vnsgummadi@gmail.com,
+Venkata Nikhil Sai Gummadi,  
+MS Data Science,   
+Arizona State University,  
+Mail: vnsgummadi@gmail.com,  
 +1 623-999-7076.
 
 
